@@ -1,6 +1,6 @@
 # React Movies App 🍿
 
-Anything to watch? Maybe you find something interesting on my movies app. 🎬
+Nothing to watch? Maybe you find something interesting on my movies app. 🎬
 I made this project to practice the basics of react.
 
 You can see the demo on 
